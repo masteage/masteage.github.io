@@ -40,6 +40,13 @@ defaults:
     sectionid: blog
 
 - scope:
+    path: _posts2
+    type: posts
+  values:
+    layout: post
+    sectionid: blog2
+
+- scope:
     path: _docs
     type: docs
   values:
