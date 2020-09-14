@@ -15,6 +15,7 @@
             <ul class="nav navbar-nav">
                 <li {% if page.sectionid=='docs' %} class="active" {% endif %}><a href="{{ "/docs/home/" | relative_url }}">Docs</a></li>
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | relative_url }}">Blog</a></li>
+                <li {% if page.sectionid=='blog2' %} class="active" {% endif %}><a href="{{ site.posts2.first.url | relative_url }}">Blog</a></li>
             </ul>
             <div class="navbar-right">
                 <form class="navbar-form navbar-left">
