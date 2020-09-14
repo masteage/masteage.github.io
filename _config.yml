@@ -2,13 +2,12 @@
 title: Jekyll Doc Theme
 email: masteage@naver.com
 description: >
-  masteage github io blog.
-  doing~
+  Mr.Song`s Blog.
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://masteage.github.io # the base hostname & protocol for your site
-git_address: https://masteage.github.io
+git_address: https://github.com/masteage/masteage.github.io
 git_edit_address: https://github.com/masteage/masteage.github.io
 
 # theme options from https://bootswatch.com/3/
